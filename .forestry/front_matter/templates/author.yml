@@ -45,3 +45,4 @@ fields:
   description: Feature this author on the home page
 pages:
 - content/authors/sean-mahoney.md
+- content/authors/sean-mahoney/sean-mahoney.md
