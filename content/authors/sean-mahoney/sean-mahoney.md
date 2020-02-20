@@ -5,6 +5,9 @@ draft = true
 featured = true
 title = "Sean Mahoney"
 [[social]]
+title = "linkedin"
+url = "https://linkedin.com/in/seanmahoney92"
+[[social]]
 title = "github"
 url = "https://github.com/seantmahoney92"
 [[social]]
