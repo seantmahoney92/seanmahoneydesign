@@ -1,7 +1,6 @@
 +++
 avatar = "/images/IMG_0690_Facetune_22-07-2018-19-35-24.jpeg"
 bio = "hi i'm sean"
-draft = true
 featured = true
 title = "Sean Mahoney"
 [[social]]
